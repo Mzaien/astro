@@ -1,5 +1,12 @@
 # astro
 
+## 0.20.6
+
+### Patch Changes
+
+- b6a75494: Adds interfaces for built-in components
+- dd92871f: During CSS bundling separate processing of `rel="preload"` from normal loading stylesheets, to preserve preloads, and source element attributes like `media`.
+
 ## 0.20.5
 
 ### Patch Changes
